@@ -13,4 +13,5 @@
 - [[Announcement] Recent and upcoming changes to the Nano projects](https://github.com/NanoAdblocker/NanoCore/issues/362) - the developer sold their adblocker to someone who turned out to be untrustworthy, and things got more interesting
 - [Newsletter: Edição 19](https://github.com/henriquebastos/curtocircuito/issues/20) - some kind of newsletter on GH?
 - [Pointing to the guide for forking](https://github.com/octocat/Spoon-Knife/commit/d0dd1f61b33d64e29d8bc1372a94ef6a2fee76a9) - everyone saying hello
+- [Add support for AR5BBU22 [0489:e03c]](https://github.com/torvalds/linux/pull/17)
 
